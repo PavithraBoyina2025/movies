@@ -38,7 +38,7 @@ useEffect(()=>{
       <Navbar />
 
       <Routes>
-        <Route path='/' element={<><Banner/><MovieList  AddToWatchList={AddToWatchList}
+        <Route path='/movies' element={<><Banner/><MovieList  AddToWatchList={AddToWatchList}
          RemoveFromWatchList={RemoveFromWatchList} watchList={watchList}/></>} />
         <Route path='/watchlist' element={<WatchList watchList={watchList} 
         setwatchlist={setwatchlist} RemoveFromWatchList={RemoveFromWatchList}/>} />
