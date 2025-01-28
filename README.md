@@ -31,7 +31,7 @@ This Movie App is a dynamic web application developed using Vite for fast build 
 - The app is built to be fully responsive using Tailwind CSS, ensuring a seamless experience on both desktop and mobile devices.
 
 ### 8. Movie Information
-- Each movie in the list shows its title, release year, poster image, and a brief overview.
+- Each movie in the list shows its title,poster image, and a brief overview.
 - Clicking on a movie provides detailed information such as ratings, popularity, and genre.
 
 ## Technologies Used
@@ -39,3 +39,4 @@ This Movie App is a dynamic web application developed using Vite for fast build 
 - **React**: Frontend library for building the user interface
 - **TMDB API**: Provides movie data
 - **Tailwind CSS**: Utility-first CSS framework for responsive design
+- **Font Awesome**: For icons 
